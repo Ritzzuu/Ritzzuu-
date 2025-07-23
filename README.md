@@ -3,7 +3,7 @@
 ### About Me:
 - 📍 I'm currently learning Python, JavaScript, Html, Nodejs
 - 💼 Passionate about web development and community
-- 📫 How to reach me: Ketekpentil@gmail.com (Mail) | @afirsz_ (Discord)
+- 📫 How to reach me: Ketekpentil@gmail.com ✉️ | @afirsz_ 📧
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
